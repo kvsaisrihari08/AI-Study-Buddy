@@ -33,6 +33,7 @@ This project demonstrates Object-Oriented Programming (OOP), JDBC connectivity, 
 
 ## Project Structure
 
+```text
 AI-Study-Buddy/
 ├── sql/
 │   └── oracle_schema.sql
@@ -46,7 +47,9 @@ AI-Study-Buddy/
 │   ├── Student.java
 │   ├── StudyBuddyApp.java
 │   └── StudyPlan.java
+├── .gitignore
 └── README.md
+```
 
 ## Run Without Database
 
